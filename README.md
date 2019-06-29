@@ -2,4 +2,4 @@ Suhteellisen yksinkertainen, paitsi koodiltansa. Opettavainen projekti itselleni
 
 ## React.js projekti
 
-![alt text](https://i.imgur.com/IxUyoYy.png)
+![alt text](https://i.imgur.com/YuJFFsF.png)
